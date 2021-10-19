@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis&family=Lora&family=Roboto:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/subbanner.css");
+@import url("components/headings.css");
+@import url("components/products-images.css");
+@import	url("components/search-bar.css");
+@import	url("components/accountbox.css");
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
+
